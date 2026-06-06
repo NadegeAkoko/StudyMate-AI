@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+python-pptx
+transformers
+torch
+accelerate
